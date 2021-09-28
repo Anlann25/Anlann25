@@ -2,7 +2,7 @@
 
 
 - 🔭 Eu estou trabalhando fron-end
-- 🌱 Estou aprendendo Web design,Ux/UI,back-end,wordpress
+- 🌱 Estou aprendendo Web design,Ux/UI,back-end,wordpress,react
 - 😄 Pronouns: ela/dela
 
  <div>
