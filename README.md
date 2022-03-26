@@ -2,7 +2,7 @@
 
 
 - 🔭 Eu estou trabalhando fron-end
-- 🌱 Estou aprendendo Web design,Ux/UI,back-end,wordpress,react,angular
+- 🌱 Estou aprendendo Web design,Ux/UI,back-end,wordpress,react,angular,java
 - 😄 Pronouns: ela/dela
 
  <div>
@@ -21,6 +21,7 @@
  <img alt="angularjs-original" height="30" width"40" src="https://icongr.am/devicon/angularjs-original.svg?size=128&color=currentColor">
 </div>
 
+ 
  ##
  
 <div> 
