@@ -18,7 +18,8 @@
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
    <img align="center" alt="wordpress-original" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg">
  <img align="center" alt="react-original" height="30" width"40" src="https://icongr.am/devicon/react-original.svg?size=128&color=currentColor">
- <img alt="angularjs-original" height="30" width"40" src="https://icongr.am/devicon/angularjs-original.svg?size=128&color=currentColor">
+ <img align="center" alt="angularjs-original" height="30" width"40" src="https://icongr.am/devicon/angularjs-original.svg?size=128&color=currentColor">
+ <img align="center" alt="java-original" height="30" width"40" src="https://icongr.am/devicon/java-original.svg?size=128&color=currentColor">
 </div>
 
  
