@@ -4,6 +4,7 @@
 - 🔭 Eu estou trabalhando fron-end
 - 🌱 Estou aprendendo Web design,Ux/UI,back-end,wordpress,react,angular,java
 - 😄 Pronouns: ela/dela
+- ❤️ Gostos:animes,tecnologia,kpop
 
  <div>
   <a href="https://github.com/Anlann25">
